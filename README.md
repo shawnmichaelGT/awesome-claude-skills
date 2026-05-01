@@ -6,6 +6,7 @@
   - [📄 Document Skills](#-document-skills)
   - [🛠 Development \& Code Tools](#-development--code-tools)
   - [📊 Data \& Analysis](#-data--analysis)
+  - [💼 Business \& Marketing](#-business--marketing)
   - [🔬 Scientific \& Research Tools](#-scientific--research-tools)
   - [✍️ Writing \& Research](#️-writing--research)
   - [📘 Learning \& Knowledge](#-learning--knowledge)
@@ -75,6 +76,10 @@
 - [x-twitter-scraper](https://github.com/Xquik-dev/x-twitter-scraper) - X/Twitter data extraction for AI coding agents: tweet search, user lookup, followers, engagement metrics, giveaway draws & trending topics.
 - [claude-ecom](https://github.com/takechanman1228/claude-ecom) - Generate full ecommerce business reviews from order CSVs — KPIs, diagnostics, and action plans.
 
+
+
+## 💼 Business & Marketing
+- [competitor-coach-analysis](https://github.com/shawnmichaelgt/awesome-claude-skills/tree/main/competitor-coach-analysis) - Research and compare coaches in your niche — YouTube metrics, content strategy, positioning, and audience gaps — delivered as an actionable competitive landscape report.
 
 
 ## 🔬 Scientific & Research Tools
