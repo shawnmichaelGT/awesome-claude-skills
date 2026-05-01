@@ -1,3 +1,8 @@
+---
+name: competitor-coach-analysis
+description: Research and compare coaches in your niche — YouTube metrics, content strategy, positioning, and audience gaps — delivered as an actionable competitive landscape report.
+---
+
 # Competitor Coach Analysis
 
 Systematically research and compare coaches in your niche — analyze YouTube performance, content strategy, positioning, and audience to surface strategic opportunities.
